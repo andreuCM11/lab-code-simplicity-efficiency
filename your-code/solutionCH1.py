@@ -9,8 +9,6 @@ The code is very long and messy. Refactor it according to what you have learned 
 code simplicity and efficiency.
 """
 
-
-
 def convert_str_int(x):
     if x.lower()=='zero':
         return 0
